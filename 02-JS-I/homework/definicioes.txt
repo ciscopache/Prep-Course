@@ -1,0 +1,8 @@
+Variables: son elementos que representan un valor que puede cambiar
+Strings : son elementos que pueden ser palabras o grupo de letras, deben definiser entre comillas '' o ""
+Funciones (argumentos, `return`) 
+    Funcion: es una herramienta que representa un conjunto de acciones, se puede usar varias veces dentro de un programa
+    argumentos: son variables que recibe la función y se utilizan dentro de la misma
+    return: devuelve el resultado de lo que se realizó en la funcion 
+Declaraciones `if`: se utilizan evaluar si se realiza una serie de acciones si se cumple una determinada condición
+Valores booleanos (`true`, `false`) son estados que solo pueden tomar dos valores: verdadero y falso, 

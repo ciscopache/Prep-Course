@@ -1,0 +1,12 @@
+for: es un bucle que repite una cantidad de veces las operaciones que contiene una cantidad de veces definadas
+consta de una variable, la cual se incrementa cada vez que las acciones se ejecutan,, una expresión condicional
+que permitirá que se vuelva a ejecutar las acciones dentro del for; y el incremento de la variable.
+
+&& es el Y lógico el cual une dos o mas expresiones, y toma del valor verdadero siempre y cuando todas las
+expresiones son verdaderas
+
+||: es el O lógico cual une dos o mas expresiones, y toma del valor verdadero siempre y cuando al menos
+una de las expresiones sea verdadera
+
+!: es el negador y convierte una expresión de valor lógico en su opuesto, o sea una expresión que 
+da como resultado true, aplicando !true devuelve false

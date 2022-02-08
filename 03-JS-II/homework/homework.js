@@ -229,7 +229,7 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
   let i=0;
   do {
-    numero = numero + 5;
+    numero += 5;
     ++i;
   } while (i<8);
   return numero;

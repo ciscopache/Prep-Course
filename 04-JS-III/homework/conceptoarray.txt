@@ -1,0 +1,2 @@
+array: es una variable que puede almacenar distintos tipos de datos, estos datos se encuentran ordenados 
+en el array, es decir que se puede acceder a cada dato mediente su numero de orden.

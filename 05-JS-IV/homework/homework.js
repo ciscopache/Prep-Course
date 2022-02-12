@@ -75,7 +75,7 @@ function tieneEmail(usuario) {
   //   return false;
   // }
   return !(usuario['email'] === null || usuario['email'] === undefined) ;
-
+ //return !(usuario['email'] && false);
 }
 
 
